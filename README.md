@@ -1,4 +1,4 @@
-📊 Investment Profit Prediction using Multiple Linear Regression
+###📊 Investment Profit Prediction using Multiple Linear Regression
 
 This project predicts company profit based on investment in R&D, Administration, and Marketing, using a Multiple Linear Regression (MLR) model. The trained model is saved as a Pickle file and deployed via a Streamlit web application for real-time predictions.
 
